@@ -21,7 +21,6 @@ underlying C/C++ code. In addition, SWIG provides a variety of
 customization features that let you tailor the wrapping process to suit
 your application.
 
-
 Current build status
 ====================
 
